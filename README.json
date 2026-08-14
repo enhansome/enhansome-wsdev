@@ -87,7 +87,7 @@
             "last_commit": "2026-08-12T15:02:54Z",
             "owner": "FluBBaOfWard",
             "repo": "NitroSwan",
-            "stars": 74
+            "stars": 75
           }
         },
         {
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T03:54:49Z",
+            "last_commit": "2026-08-13T23:25:26Z",
             "owner": "ghaerr",
             "repo": "elks",
-            "stars": 1685
+            "stars": 1686
           }
         },
         {
@@ -681,7 +681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:34:07.244Z",
+    "last_updated": "2026-08-14T05:42:59.928Z",
     "original_repository": "WonderfulToolchain/awesome-wsdev",
     "original_repository_sha": "492fcd269cbf656115fb83726ac311b61e18eb07",
     "enhanced_repository": "enhansome/enhansome-wsdev",
