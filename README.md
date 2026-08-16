@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,847 | 🐛 100 | 📅 2026-06-30 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,204 | 🐛 100 | 📅 2026-06-30 list.
 
 ## Contents
 
@@ -107,7 +107,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ## Test ROMs
 
-* [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) ⭐ 15 | 🐛 12 | 🌐 VHDL | 📅 2026-02-23 - sprite priority/window testing tool
+* [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) ⭐ 15 | 🐛 11 | 🌐 VHDL | 📅 2026-08-15 - sprite priority/window testing tool
 * [ws-test-suite](https://github.com/asiekierka/ws-test-suite) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2025-11-08 (MIT) - assorted hardware tests and testing tools
 * [WSTimingTest](https://github.com/FluBBaOfWard/WSTimingTest) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2023-09-10 - V30MZ CPU timing
 * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) ⭐ 3 | 🐛 3 | 🌐 Assembly | 📅 2025-05-19 - V30MZ CPU behaviour
@@ -163,7 +163,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ### Other programs
 
-* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,687 | 🐛 27 | 🌐 C | 📅 2026-08-13 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,689 | 🐛 27 | 🌐 C | 📅 2026-08-13 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
 * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2026-01-06 (GPL-3.0) - WonderSwan cartridge menu/launcher
 * [144p Test Suite for WS](https://github.com/asiekierka/240p-test-ws) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2026-06-14 (GPL-3.0) - 240p Test Suite-inspired user-side testing tool
 * [Chips1](https://github.com/asiekierka/chips1) ⭐ 4 | 🐛 0 | 🌐 Roff | 📅 2026-03-25 (MIT) - CHIP-8/SuperCHIP emulator.
@@ -243,7 +243,7 @@ This section only lists programs whose source code is explicitly listed under op
 
 ### Other hardware development
 
-* [WonderSwan for MiSTer](https://github.com/MiSTer-devel/WonderSwan_MiSTer) ⭐ 15 | 🐛 12 | 🌐 VHDL | 📅 2026-02-23 (GPL-2.0)
+* [WonderSwan for MiSTer](https://github.com/MiSTer-devel/WonderSwan_MiSTer) ⭐ 15 | 🐛 11 | 🌐 VHDL | 📅 2026-08-15 (GPL-2.0)
 * [USB WonderSwan Cartridge Utility](https://github.com/up-n-atom/WonderSwanCartTap) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-02-24 (MIT) - cartridge dumper and programmer.
 
 ## Historical
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
