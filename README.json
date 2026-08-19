@@ -1,51 +1,50 @@
 {
   "items": [
     {
-      "description": "The Bandai WonderSwan is a handheld game console released and supported by Bandai from 1999 to 2003 in Japan, with later follow-ups in the form of the 2000 WonderSwan Color and 2002 SwanCrystal. It is the last piece of hardware with design input from the legendary Gunpei Yokoi, as well as Asuka Langley's handheld of choice.\nWhile this list focuses on \"bare metal\" WonderSwan development (cartridge ROM as output), note that there exists an official homebrew SDK for the console called the WonderWitch created by Qute Corporation, which requires different targetting (custom .fx file format, FreyaBIOS hardware abstraction layer, FreyaOS libraries, more restrictive IRAM/SRAM layout). Tools and examples for the WonderWitch are present in their own section; however, many other entries (such as hardware documentation or graphics converters) are applicable to both environments.",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasheets"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Retail cartridges",
-          "description": "cartridge logic analyzer and requirement documentation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-24T21:10:03Z",
-            "owner": "49bitcat",
-            "repo": "nileswan",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "splashbuilder readme",
-          "description": "WonderSwan Color custom boot splash format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-13T20:06:26Z",
-            "owner": "Godzil",
-            "repo": "splashbuilder",
-            "stars": 14
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Retail cartridges",
+              "description": "cartridge logic analyzer and requirement documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675125810,
+                "language": "HTML",
+                "last_commit": "2026-06-24T21:10:03Z",
+                "owner": "49bitcat",
+                "repo": "nileswan",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "splashbuilder readme",
+              "description": "WonderSwan Color custom boot splash format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213696513,
+                "language": "Python",
+                "last_commit": "2021-04-13T20:06:26Z",
+                "owner": "Godzil",
+                "repo": "splashbuilder",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other documentation"
         }
       ],
-      "title": "Other documentation"
+      "title": "Documentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -54,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 348129167,
             "language": "C++",
             "last_commit": "2026-06-04T09:31:24Z",
             "owner": "SourMesen",
@@ -73,6 +73,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 470584286,
                 "language": "Assembly",
                 "last_commit": "2026-08-12T14:53:41Z",
                 "owner": "FluBBaOfWard",
@@ -83,6 +84,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 418228488,
             "language": "C",
             "last_commit": "2026-08-12T15:02:54Z",
             "owner": "FluBBaOfWard",
@@ -97,6 +99,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427796755,
             "language": "C#",
             "last_commit": "2026-01-11T16:37:33Z",
             "owner": "xdanieldzd",
@@ -108,7 +111,7 @@
       "title": "Emulators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -117,6 +120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376199170,
             "language": "VHDL",
             "last_commit": "2026-08-15T10:45:49Z",
             "owner": "MiSTer-devel",
@@ -131,6 +135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669822097,
             "language": "C",
             "last_commit": "2025-11-08T09:36:36Z",
             "owner": "asiekierka",
@@ -145,6 +150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577877434,
             "language": "Assembly",
             "last_commit": "2023-09-10T10:19:06Z",
             "owner": "FluBBaOfWard",
@@ -159,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 487609894,
             "language": "Assembly",
             "last_commit": "2025-05-19T18:29:25Z",
             "owner": "FluBBaOfWard",
@@ -173,6 +180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594838319,
             "language": "Assembly",
             "last_commit": "2025-08-04T06:49:02Z",
             "owner": "FluBBaOfWard",
@@ -187,6 +195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 994171733,
             "language": "Assembly",
             "last_commit": "2025-07-09T13:32:03Z",
             "owner": "FluBBaOfWard",
@@ -198,184 +207,205 @@
       "title": "Test ROMs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Dekadence WonderSwan Tools",
-          "description": "(MIT) - assorted Python scripts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-15T14:37:57Z",
-            "owner": "dekadencedemo",
-            "repo": "wonderswan-tools",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "splashbuilder",
-          "description": "(BSD-3-Clause) - toolchain for creating custom WonderSwan Color boot splashes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-13T20:06:26Z",
-            "owner": "Godzil",
-            "repo": "splashbuilder",
-            "stars": 14
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dekadence WonderSwan Tools",
+              "description": "(MIT) - assorted Python scripts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456115648,
+                "language": "Python",
+                "last_commit": "2022-12-15T14:37:57Z",
+                "owner": "dekadencedemo",
+                "repo": "wonderswan-tools",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "splashbuilder",
+              "description": "(BSD-3-Clause) - toolchain for creating custom WonderSwan Color boot splashes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213696513,
+                "language": "Python",
+                "last_commit": "2021-04-13T20:06:26Z",
+                "owner": "Godzil",
+                "repo": "splashbuilder",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
-      "title": "Tools"
+      "title": "Software development"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bad Apple!! for WSwan",
+              "description": "(MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495279285,
+                "language": "Java",
+                "last_commit": "2022-06-25T11:31:08Z",
+                "owner": "asiekierka",
+                "repo": "bad-apple-for-wswan",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "#wonderwitch IRC channel promo",
+              "description": "(MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721691358,
+                "language": "Assembly",
+                "last_commit": "2023-11-22T11:54:32Z",
+                "owner": "tslanina",
+                "repo": "Retro-WonderSwanColor-Promo",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HBlank Cylinder Effect",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732809120,
+                "language": "C",
+                "last_commit": "2023-12-17T22:16:15Z",
+                "owner": "joffb",
+                "repo": "wsc-witch-cylinder",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Demos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ELKS",
+              "description": "(GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14411731,
+                "language": "C",
+                "last_commit": "2026-08-13T23:25:26Z",
+                "owner": "ghaerr",
+                "repo": "elks",
+                "stars": 1688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CartFriend",
+              "description": "(GPL-3.0) - WonderSwan cartridge menu/launcher",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570884510,
+                "language": "C",
+                "last_commit": "2026-01-06T17:25:35Z",
+                "owner": "asiekierka",
+                "repo": "ws-cartfriend",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "144p Test Suite for WS",
+              "description": "(GPL-3.0) - 240p Test Suite-inspired user-side testing tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826446974,
+                "language": "C",
+                "last_commit": "2026-06-14T05:17:49Z",
+                "owner": "asiekierka",
+                "repo": "240p-test-ws",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chips1",
+              "description": "(MIT) - CHIP-8/SuperCHIP emulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668856812,
+                "language": "Roff",
+                "last_commit": "2026-03-25T18:45:19Z",
+                "owner": "asiekierka",
+                "repo": "chips1",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ieepview",
+              "description": "(MIT) - internal EEPROM viewer/editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507423571,
+                "language": "C",
+                "last_commit": "2025-03-09T09:37:04Z",
+                "owner": "asiekierka",
+                "repo": "ws-ieepview",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ws-backup-tool",
+              "description": "(GPL-3.0) - cartridge backup/restore/flash tool and IPL dumper for BootFriend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600853126,
+                "language": "C",
+                "last_commit": "2025-10-31T18:13:35Z",
+                "owner": "asiekierka",
+                "repo": "ws-backup-tool",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other programs"
+        }
+      ],
       "title": "Source code"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bad Apple!! for WSwan",
-          "description": "(MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-06-25T11:31:08Z",
-            "owner": "asiekierka",
-            "repo": "bad-apple-for-wswan",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "#wonderwitch IRC channel promo",
-          "description": "(MIT)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2023-11-22T11:54:32Z",
-            "owner": "tslanina",
-            "repo": "Retro-WonderSwanColor-Promo",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HBlank Cylinder Effect",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-17T22:16:15Z",
-            "owner": "joffb",
-            "repo": "wsc-witch-cylinder",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Demos"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ELKS",
-          "description": "(GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-13T23:25:26Z",
-            "owner": "ghaerr",
-            "repo": "elks",
-            "stars": 1689
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CartFriend",
-          "description": "(GPL-3.0) - WonderSwan cartridge menu/launcher",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-01-06T17:25:35Z",
-            "owner": "asiekierka",
-            "repo": "ws-cartfriend",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "144p Test Suite for WS",
-          "description": "(GPL-3.0) - 240p Test Suite-inspired user-side testing tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-14T05:17:49Z",
-            "owner": "asiekierka",
-            "repo": "240p-test-ws",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chips1",
-          "description": "(MIT) - CHIP-8/SuperCHIP emulator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2026-03-25T18:45:19Z",
-            "owner": "asiekierka",
-            "repo": "chips1",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ieepview",
-          "description": "(MIT) - internal EEPROM viewer/editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-03-09T09:37:04Z",
-            "owner": "asiekierka",
-            "repo": "ws-ieepview",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ws-backup-tool",
-          "description": "(GPL-3.0) - cartridge backup/restore/flash tool and IPL dumper for BootFriend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-31T18:13:35Z",
-            "owner": "asiekierka",
-            "repo": "ws-backup-tool",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Other programs"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -384,6 +414,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 832732605,
             "language": "Assembly",
             "last_commit": "2025-11-30T15:54:10Z",
             "owner": "OpenWitch",
@@ -398,6 +429,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 874202878,
             "language": "C",
             "last_commit": "2025-11-26T19:40:06Z",
             "owner": "OpenWitch",
@@ -412,277 +444,303 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282139474,
             "language": "Assembly",
             "last_commit": "2020-07-24T06:23:30Z",
             "owner": "autumn009",
             "repo": "wonderwitchvc15",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiracleMage",
+              "description": "(GPL-2.0) - high-level WonderWitch emulator, only supports \"mono\" software, does not require a WonderWitch ROM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134234427,
+                "language": "C",
+                "last_commit": "2019-06-19T17:36:37Z",
+                "owner": "Godzil",
+                "repo": "MiracleMage",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exe2fbin",
+              "description": "(PD) - reconstruction of the official exe2fbin binary.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 875168841,
+                "language": "C",
+                "last_commit": "2024-10-19T12:14:39Z",
+                "owner": "OpenWitch",
+                "repo": "exe2fbin",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WW tools"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dumpipl",
+                  "description": "(MIT) - WS/WSC initial program loader dumping tool (as \"Soft\" image).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 273558817,
+                    "language": "Assembly",
+                    "last_commit": "2024-09-17T05:54:56Z",
+                    "owner": "up-n-atom",
+                    "repo": "wwsoft",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WWTerm",
+                  "description": "(GPL-2.0) - terminal emulator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 492340982,
+                    "language": "C",
+                    "last_commit": "2022-06-25T11:10:17Z",
+                    "owner": "WonderfulToolchain",
+                    "repo": "WWTerm",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Applications"
+            }
+          ],
+          "description": "This section only lists programs whose source code is explicitly listed under open source licenses.",
+          "node_type": "group",
+          "title": "Open source WW programs"
         }
       ],
       "title": "WonderWitch"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "MiracleMage",
-          "description": "(GPL-2.0) - high-level WonderWitch emulator, only supports \"mono\" software, does not require a WonderWitch ROM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-06-19T17:36:37Z",
-            "owner": "Godzil",
-            "repo": "MiracleMage",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exe2fbin",
-          "description": "(PD) - reconstruction of the official exe2fbin binary.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2024-10-19T12:14:39Z",
-            "owner": "OpenWitch",
-            "repo": "exe2fbin",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "WW tools"
-    },
-    {
-      "description": "This section only lists programs whose source code is explicitly listed under open source licenses.",
-      "items": [],
-      "title": "Open source WW programs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dumpipl",
-          "description": "(MIT) - WS/WSC initial program loader dumping tool (as \"Soft\" image).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-09-17T05:54:56Z",
-            "owner": "up-n-atom",
-            "repo": "wwsoft",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WWTerm",
-          "description": "(GPL-2.0) - terminal emulator.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2022-06-25T11:10:17Z",
-            "owner": "WonderfulToolchain",
-            "repo": "WWTerm",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Applications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Open source hardware"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nileswan",
-          "description": "(GPLv3) - open-source flash cartridge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-24T21:10:03Z",
-            "owner": "49bitcat",
-            "repo": "nileswan",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bandai2003",
-          "description": "(MIT) - Verilog \"2003\" mapper implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Verilog",
-            "last_commit": "2023-02-05T20:50:02Z",
-            "owner": "up-n-atom",
-            "repo": "Bandai2003",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Cartridges"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wsheadphone",
-          "description": "(CC-BY-NC-SA-4.0) - headphone DAC adapter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-04-23T18:49:22Z",
-            "owner": "zwenergy",
-            "repo": "wsheadphone",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WSMtool",
-          "description": "(CC-BY-NC-SA-4.0) - multitool adapter for the WonderSwan; headphone, serial and link cable adapter in one.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-03T09:22:56Z",
-            "owner": "zwenergy",
-            "repo": "WSMtool",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExtFriend",
-          "description": "(GPL-3.0) - WonderSwan EXT<->USB adapter with digital audio capture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-06-17T19:35:37Z",
-            "owner": "asiekierka",
-            "repo": "ws-extfriend",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WS-LinkC",
-          "description": "(CC-BY-NC-SA-4.0) - cheap, DIY-friendly link cable alternative.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-29T07:50:24Z",
-            "owner": "zwenergy",
-            "repo": "WS-LinkC",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Peripherals"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "swancolorHD",
-          "description": "(GPL-3.0) - FPGA-based screen capture solution.",
           "children": [
             {
               "node_type": "item",
-              "title": "swantroller",
-              "description": "(GPL-3.0) - WonderSwan Color-based controller PCB for the swancolorHD.",
+              "title": "nileswan",
+              "description": "(GPLv3) - open-source flash cartridge.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "C",
-                "last_commit": "2024-07-16T09:01:47Z",
-                "owner": "zwenergy",
-                "repo": "swantroller",
-                "stars": 10
+                "id": 675125810,
+                "language": "HTML",
+                "last_commit": "2026-06-24T21:10:03Z",
+                "owner": "49bitcat",
+                "repo": "nileswan",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bandai2003",
+              "description": "(MIT) - Verilog \"2003\" mapper implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290872566,
+                "language": "Verilog",
+                "last_commit": "2023-02-05T20:50:02Z",
+                "owner": "up-n-atom",
+                "repo": "Bandai2003",
+                "stars": 6
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "GLSL",
-            "last_commit": "2024-08-04T11:14:22Z",
-            "owner": "zwenergy",
-            "repo": "swancolorHD",
-            "stars": 62
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "Cartridges"
         },
         {
-          "node_type": "item",
-          "title": "nisetro_wsc",
-          "description": "(MIT) - FPGA-based screen capture solution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-02-23T03:56:51Z",
-            "owner": "splash5",
-            "repo": "nisetro_wsc",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Screen capture"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WonderSwan for MiSTer",
-          "description": "(GPL-2.0)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VHDL",
-            "last_commit": "2026-08-15T10:45:49Z",
-            "owner": "MiSTer-devel",
-            "repo": "WonderSwan_MiSTer",
-            "stars": 15
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wsheadphone",
+              "description": "(CC-BY-NC-SA-4.0) - headphone DAC adapter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 361478240,
+                "language": null,
+                "last_commit": "2022-04-23T18:49:22Z",
+                "owner": "zwenergy",
+                "repo": "wsheadphone",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WSMtool",
+              "description": "(CC-BY-NC-SA-4.0) - multitool adapter for the WonderSwan; headphone, serial and link cable adapter in one.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732444800,
+                "language": null,
+                "last_commit": "2025-08-03T09:22:56Z",
+                "owner": "zwenergy",
+                "repo": "WSMtool",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExtFriend",
+              "description": "(GPL-3.0) - WonderSwan EXT<->USB adapter with digital audio capture.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570884586,
+                "language": "C",
+                "last_commit": "2025-06-17T19:35:37Z",
+                "owner": "asiekierka",
+                "repo": "ws-extfriend",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WS-LinkC",
+              "description": "(CC-BY-NC-SA-4.0) - cheap, DIY-friendly link cable alternative.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582656560,
+                "language": null,
+                "last_commit": "2022-12-29T07:50:24Z",
+                "owner": "zwenergy",
+                "repo": "WS-LinkC",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Peripherals"
         },
         {
-          "node_type": "item",
-          "title": "USB WonderSwan Cartridge Utility",
-          "description": "(MIT) - cartridge dumper and programmer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-02-24T03:15:56Z",
-            "owner": "up-n-atom",
-            "repo": "WonderSwanCartTap",
-            "stars": 6
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "swancolorHD",
+              "description": "(GPL-3.0) - FPGA-based screen capture solution.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "swantroller",
+                  "description": "(GPL-3.0) - WonderSwan Color-based controller PCB for the swancolorHD.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 827983773,
+                    "language": "C",
+                    "last_commit": "2024-07-16T09:01:47Z",
+                    "owner": "zwenergy",
+                    "repo": "swantroller",
+                    "stars": 10
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 513048883,
+                "language": "GLSL",
+                "last_commit": "2024-08-04T11:14:22Z",
+                "owner": "zwenergy",
+                "repo": "swancolorHD",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nisetro_wsc",
+              "description": "(MIT) - FPGA-based screen capture solution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360751508,
+                "language": "C++",
+                "last_commit": "2023-02-23T03:56:51Z",
+                "owner": "splash5",
+                "repo": "nisetro_wsc",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Screen capture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WonderSwan for MiSTer",
+              "description": "(GPL-2.0)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376199170,
+                "language": "VHDL",
+                "last_commit": "2026-08-15T10:45:49Z",
+                "owner": "MiSTer-devel",
+                "repo": "WonderSwan_MiSTer",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "USB WonderSwan Cartridge Utility",
+              "description": "(MIT) - cartridge dumper and programmer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 424428914,
+                "language": "C",
+                "last_commit": "2022-02-24T03:15:56Z",
+                "owner": "up-n-atom",
+                "repo": "WonderSwanCartTap",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other hardware development"
         }
       ],
-      "title": "Other hardware development"
+      "title": "Open source hardware"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:45:30.689Z",
+    "last_updated": "2026-08-19T13:00:58.675Z",
     "original_repository": "WonderfulToolchain/awesome-wsdev",
+    "original_repository_id": 507285371,
     "original_repository_sha": "492fcd269cbf656115fb83726ac311b61e18eb07",
     "enhanced_repository": "enhansome/enhansome-wsdev",
     "enhanced_repository_description": null,
