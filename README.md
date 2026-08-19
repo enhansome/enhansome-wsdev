@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,064 | 🐛 103 | 📅 2026-06-30 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,498 | 🐛 102 | 📅 2026-08-18 list.
 
 ## Contents
 
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
