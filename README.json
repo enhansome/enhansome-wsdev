@@ -6,6 +6,35 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fujitsu MBM29DL400TC",
+                  "description": "WonderWitch NOR flash.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 365337771,
+                    "language": null,
+                    "last_commit": "2021-10-05T00:07:30Z",
+                    "owner": "up-n-atom",
+                    "repo": "WonderWitch",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Datasheets"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Retail cartridges",
               "description": "cartridge logic analyzer and requirement documentation.",
@@ -48,8 +77,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Mesen 2 (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.",
-          "description": null,
+          "title": "Mesen 2",
+          "description": "(GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -210,6 +239,50 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "owswan",
+          "description": "OpenWatcom-based WonderSwan toolchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 526355178,
+            "language": "C",
+            "last_commit": "2022-10-08T09:11:30Z",
+            "owner": "jounikor",
+            "repo": "owswan",
+            "stars": 11
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WonderSwan Total Sound Driver",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197583774,
+                    "language": "Assembly",
+                    "last_commit": "2019-07-18T13:47:50Z",
+                    "owner": "Shaw02",
+                    "repo": "WTD",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Music drivers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -240,6 +313,28 @@
                 "repo": "splashbuilder",
                 "stars": 14
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SuperFamiconv",
+                  "description": "(MIT) - tile/map converter with flexible palette/optimization options and mostly-complete WS/WSC support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37061949,
+                    "language": "C++",
+                    "last_commit": "2026-07-03T20:53:47Z",
+                    "owner": "Optiroc",
+                    "repo": "SuperFamiconv",
+                    "stars": 189
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Graphics utilities"
             }
           ],
           "description": null,
@@ -303,6 +398,28 @@
           "description": null,
           "node_type": "group",
           "title": "Demos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WonderSnake",
+              "description": "(GPL-3.0) - Snake game written with Borland TASM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89241645,
+                "language": "Assembly",
+                "last_commit": "2017-04-24T13:29:01Z",
+                "owner": "tslanina",
+                "repo": "Retro-WonderSwanColor-Wondersnake",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
         },
         {
           "children": [
@@ -400,6 +517,28 @@
           "description": null,
           "node_type": "group",
           "title": "Other programs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vgmswan",
+              "description": "(MIT/zlib) - .VGM playback and conversion tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581330620,
+                "language": "C",
+                "last_commit": "2024-03-29T15:07:52Z",
+                "owner": "asiekierka",
+                "repo": "vgmswan",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
         }
       ],
       "title": "Source code"
@@ -491,6 +630,50 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Don Walizer Jr's tutorials",
+              "description": "(source code).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287161248,
+                "language": "C",
+                "last_commit": "2020-10-02T03:26:50Z",
+                "owner": "dwalizer",
+                "repo": "wonderwitch",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WW documentation"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "yoppa",
+                  "description": "(BSD-3-Clause)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 492478533,
+                    "language": "C",
+                    "last_commit": "2022-06-25T11:10:51Z",
+                    "owner": "WonderfulToolchain",
+                    "repo": "yoppa",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Games"
+            },
             {
               "children": [
                 {
@@ -738,7 +921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:55:25.848Z",
+    "last_updated": "2026-08-24T14:43:15.369Z",
     "original_repository": "WonderfulToolchain/awesome-wsdev",
     "original_repository_id": 507285371,
     "original_repository_sha": "492fcd269cbf656115fb83726ac311b61e18eb07",

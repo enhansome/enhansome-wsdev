@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,352 | 🐛 106 | 📅 2026-08-21 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,521 | 🐛 106 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -76,8 +76,8 @@ and assemblers typically use Intel opcode names. A translation map between the t
 
 #### Other
 
-* [Seiko S-3511A](http://perfectkiosk.net/S-3511A.pdf) - cartridge RTC.
 * [Fujitsu MBM29DL400TC](https://github.com/up-n-atom/WonderWitch/blob/main/Datasheets/MBM29DL400BC-12PFTN_to_MBM29DL400TC-90PFTN.pdf) ⭐ 13 | 🐛 0 | 📅 2021-10-05 - WonderWitch NOR flash.
+* [Seiko S-3511A](http://perfectkiosk.net/S-3511A.pdf) - cartridge RTC.
 
 ### Other documentation
 
@@ -117,8 +117,8 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ## Software development
 
-* **[Wonderful](https://wonderful.asie.pl/)** - gcc-ia16 based C/ASM toolchain for WonderSwan and WonderWitch.
 * [owswan](https://github.com/jounikor/owswan) ⭐ 11 | 🐛 0 | 🌐 C | 📅 2022-10-08 - OpenWatcom-based WonderSwan toolchain.
+* **[Wonderful](https://wonderful.asie.pl/)** - gcc-ia16 based C/ASM toolchain for WonderSwan and WonderWitch.
 * [Kyoui](https://asie.pl/files/kyoui_2004_11_02.zip) - (mirror) tools for compiling WonderSwan binaries using OpenWatcom.
 * [WSLink](https://bitbucket.org/trap15/wonder/src/master/) (MIT) - NASM linker outputting WonderSwan and WonderWitch compatible binaries.
 
@@ -130,8 +130,8 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 #### Music drivers
 
-* [Cygnals](github.com/joffb/cygnals) (MIT) - partially Furnace compatible audio driver.
 * [WonderSwan Total Sound Driver](https://github.com/Shaw02/WTD) ⭐ 12 | 🐛 1 | 🌐 Assembly | 📅 2019-07-18
+* [Cygnals](github.com/joffb/cygnals) (MIT) - partially Furnace compatible audio driver.
 
 ### Tools
 
@@ -157,9 +157,9 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ### Games
 
+* [WonderSnake](https://github.com/tslanina/Retro-WonderSwanColor-Wondersnake) ⭐ 9 | 🐛 0 | 🌐 Assembly | 📅 2017-04-24 (GPL-3.0) - Snake game written with Borland TASM.
 * [Inufuto's games](http://inufuto.web.fc2.com/8bit/) - written using a custom C-like toolchain.
 * [SwanDriving](http://sebastianmihai.com/swan-driving.html) ([Mono](http://sebastianmihai.com/swan-driving-bw.html)) - tech demo written with NASM.
-* [WonderSnake](https://github.com/tslanina/Retro-WonderSwanColor-Wondersnake) ⭐ 9 | 🐛 0 | 🌐 Assembly | 📅 2017-04-24 (GPL-3.0) - Snake game written with Borland TASM.
 
 ### Other programs
 
@@ -201,13 +201,13 @@ This section only lists programs whose source code is explicitly listed under op
 
 #### Games
 
+* [yoppa](https://github.com/WonderfulToolchain/yoppa/tree/original) ⚠️ Archived (BSD-3-Clause)
 * [FallingTower mini](http://www.fenix.ne.jp/~cdrtk/soft/wwjump.html) (BSD-2-Clause)
 * [Nametry](https://www.asahi-net.or.jp/~cs8k-cyu/ww/nametry.html) (BSD-2-Clause)
 * [Noiz](https://www.asahi-net.or.jp/~cs8k-cyu/ww/noiz.html) (GPL-2.0-or-later)
 * [PutiPati](https://www.asahi-net.or.jp/~cs8k-cyu/ww/putipati.html) (BSD-2-Clause)
 * [Soari-san](http://www.fenix.ne.jp/~cdrtk/soft/soari.html) (BSD-2-Clause)
 * [SpeedMac](https://kozos.jp/ww/) (BSD-2-Clause)
-* [yoppa](https://github.com/WonderfulToolchain/yoppa/tree/original) ⚠️ Archived (BSD-3-Clause)
 
 #### Applications
 
