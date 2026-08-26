@@ -43,7 +43,7 @@
                 "archived": false,
                 "id": 675125810,
                 "language": "HTML",
-                "last_commit": "2026-06-24T21:10:03Z",
+                "last_commit": "2026-08-25T15:19:09Z",
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 82
@@ -733,7 +733,7 @@
                 "archived": false,
                 "id": 675125810,
                 "language": "HTML",
-                "last_commit": "2026-06-24T21:10:03Z",
+                "last_commit": "2026-08-25T15:19:09Z",
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 82
@@ -921,7 +921,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:41.712Z",
+    "last_updated": "2026-08-26T04:49:42.374Z",
     "original_repository": "WonderfulToolchain/awesome-wsdev",
     "original_repository_id": 507285371,
     "original_repository_sha": "492fcd269cbf656115fb83726ac311b61e18eb07",
