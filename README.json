@@ -43,7 +43,7 @@
                 "archived": false,
                 "id": 675125810,
                 "language": "HTML",
-                "last_commit": "2026-08-25T15:19:09Z",
+                "last_commit": "2026-08-26T18:19:36Z",
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 82
@@ -87,7 +87,7 @@
             "last_commit": "2026-06-04T09:31:24Z",
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2420
+            "stars": 2421
           }
         },
         {
@@ -328,7 +328,7 @@
                     "last_commit": "2026-07-03T20:53:47Z",
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 189
+                    "stars": 190
                   }
                 }
               ],
@@ -435,7 +435,7 @@
                 "last_commit": "2026-08-13T23:25:26Z",
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1692
+                "stars": 1693
               }
             },
             {
@@ -733,7 +733,7 @@
                 "archived": false,
                 "id": 675125810,
                 "language": "HTML",
-                "last_commit": "2026-08-25T15:19:09Z",
+                "last_commit": "2026-08-26T18:19:36Z",
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 82
@@ -921,9 +921,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:49:42.374Z",
-    "original_repository": "WonderfulToolchain/awesome-wsdev",
-    "original_repository_id": 507285371,
+    "last_updated": "2026-08-27T12:14:36.696Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 507285371,
+      "language": "Assembly",
+      "last_commit": "2026-04-20T15:17:09Z",
+      "owner": "WonderfulToolchain",
+      "repo": "awesome-wsdev",
+      "stars": 93
+    },
     "original_repository_sha": "492fcd269cbf656115fb83726ac311b61e18eb07",
     "enhanced_repository": "enhansome/enhansome-wsdev",
     "enhanced_repository_description": null,
