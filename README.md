@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,409 | 🐛 105 | 📅 2026-08-21 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,776 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -89,8 +89,8 @@ and assemblers typically use Intel opcode names. A translation map between the t
 ## Emulators
 
 * **[Mesen 2](https://github.com/SourMesen/Mesen2/) ⚠️ Archived** (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.
-* [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan) ⭐ 76 | 🐛 13 | 🌐 C | 📅 2026-08-12 - WonderSwan emulator for Nintendo DS/DSi, user friendly WonderWitch support.
-  * [SwanGBA](https://github.com/FluBBaOfWard/SwanGBA/) ⭐ 48 | 🐛 4 | 🌐 Assembly | 📅 2026-08-12 - GBA version of the above, does not run at full speed.
+* [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan) ⭐ 76 | 🐛 14 | 🌐 C | 📅 2026-08-12 - WonderSwan emulator for Nintendo DS/DSi, user friendly WonderWitch support.
+  * [SwanGBA](https://github.com/FluBBaOfWard/SwanGBA/) ⭐ 49 | 🐛 4 | 🌐 Assembly | 📅 2026-08-12 - GBA version of the above, does not run at full speed.
 * [StoicGoose](https://github.com/xdanieldzd/StoicGoose) ⭐ 48 | 🐛 10 | 🌐 C# | 📅 2026-01-11 (MIT) - C# WonderSwan emulator.
 * [ares](https://ares-emu.net/) (ISC) - high accuracy.
 * [Mednafen](https://mednafen.github.io/) (GPL-2.0) - serial port emulation, built-in debugger.
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

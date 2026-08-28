@@ -20,7 +20,8 @@
                     "owner": "up-n-atom",
                     "repo": "WonderWitch",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:32:03.302Z"
                 }
               ],
               "description": null,
@@ -47,7 +48,8 @@
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -62,7 +64,8 @@
                 "owner": "Godzil",
                 "repo": "splashbuilder",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -87,8 +90,9 @@
             "last_commit": "2026-06-04T09:31:24Z",
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2421
-          }
+            "stars": 2422
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -107,8 +111,9 @@
                 "last_commit": "2026-08-12T14:53:41Z",
                 "owner": "FluBBaOfWard",
                 "repo": "SwanGBA",
-                "stars": 48
-              }
+                "stars": 49
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "repo_info": {
@@ -119,7 +124,8 @@
             "owner": "FluBBaOfWard",
             "repo": "NitroSwan",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -134,7 +140,8 @@
             "owner": "xdanieldzd",
             "repo": "StoicGoose",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         }
       ],
       "title": "Emulators"
@@ -155,7 +162,8 @@
             "owner": "MiSTer-devel",
             "repo": "WonderSwan_MiSTer",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -170,7 +178,8 @@
             "owner": "asiekierka",
             "repo": "ws-test-suite",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -185,7 +194,8 @@
             "owner": "FluBBaOfWard",
             "repo": "WSTimingTest",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -200,7 +210,8 @@
             "owner": "FluBBaOfWard",
             "repo": "WSCpuTest",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -215,7 +226,8 @@
             "owner": "FluBBaOfWard",
             "repo": "WSHWTest",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -230,7 +242,8 @@
             "owner": "FluBBaOfWard",
             "repo": "KarnakTest",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         }
       ],
       "title": "Test ROMs"
@@ -251,7 +264,8 @@
             "owner": "jounikor",
             "repo": "owswan",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "children": [
@@ -270,7 +284,8 @@
                     "owner": "Shaw02",
                     "repo": "WTD",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:32:03.302Z"
                 }
               ],
               "description": null,
@@ -297,7 +312,8 @@
                 "owner": "dekadencedemo",
                 "repo": "wonderswan-tools",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -312,7 +328,8 @@
                 "owner": "Godzil",
                 "repo": "splashbuilder",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "children": [
@@ -329,7 +346,8 @@
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 190
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:32:03.302Z"
                 }
               ],
               "description": null,
@@ -362,7 +380,8 @@
                 "owner": "asiekierka",
                 "repo": "bad-apple-for-wswan",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -377,7 +396,8 @@
                 "owner": "tslanina",
                 "repo": "Retro-WonderSwanColor-Promo",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -392,7 +412,8 @@
                 "owner": "joffb",
                 "repo": "wsc-witch-cylinder",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -414,7 +435,8 @@
                 "owner": "tslanina",
                 "repo": "Retro-WonderSwanColor-Wondersnake",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -436,7 +458,8 @@
                 "owner": "ghaerr",
                 "repo": "elks",
                 "stars": 1693
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -451,7 +474,8 @@
                 "owner": "asiekierka",
                 "repo": "ws-cartfriend",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -466,7 +490,8 @@
                 "owner": "asiekierka",
                 "repo": "240p-test-ws",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -481,7 +506,8 @@
                 "owner": "asiekierka",
                 "repo": "chips1",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -496,7 +522,8 @@
                 "owner": "asiekierka",
                 "repo": "ws-ieepview",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -511,7 +538,8 @@
                 "owner": "asiekierka",
                 "repo": "ws-backup-tool",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -533,7 +561,8 @@
                 "owner": "asiekierka",
                 "repo": "vgmswan",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -559,7 +588,8 @@
             "owner": "OpenWitch",
             "repo": "AthenaOS",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -574,7 +604,8 @@
             "owner": "OpenWitch",
             "repo": "ow-libs",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "node_type": "item",
@@ -589,7 +620,8 @@
             "owner": "autumn009",
             "repo": "wonderwitchvc15",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T16:32:03.302Z"
         },
         {
           "children": [
@@ -606,7 +638,8 @@
                 "owner": "Godzil",
                 "repo": "MiracleMage",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -621,7 +654,8 @@
                 "owner": "OpenWitch",
                 "repo": "exe2fbin",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -643,7 +677,8 @@
                 "owner": "dwalizer",
                 "repo": "wonderwitch",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -667,7 +702,8 @@
                     "owner": "WonderfulToolchain",
                     "repo": "yoppa",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:32:03.302Z"
                 }
               ],
               "description": null,
@@ -689,7 +725,8 @@
                     "owner": "up-n-atom",
                     "repo": "wwsoft",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:32:03.302Z"
                 },
                 {
                   "node_type": "item",
@@ -704,7 +741,8 @@
                     "owner": "WonderfulToolchain",
                     "repo": "WWTerm",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:32:03.302Z"
                 }
               ],
               "description": null,
@@ -737,7 +775,8 @@
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -752,7 +791,8 @@
                 "owner": "up-n-atom",
                 "repo": "Bandai2003",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -774,7 +814,8 @@
                 "owner": "zwenergy",
                 "repo": "wsheadphone",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -789,7 +830,8 @@
                 "owner": "zwenergy",
                 "repo": "WSMtool",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -804,7 +846,8 @@
                 "owner": "asiekierka",
                 "repo": "ws-extfriend",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -819,7 +862,8 @@
                 "owner": "zwenergy",
                 "repo": "WS-LinkC",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -846,7 +890,8 @@
                     "owner": "zwenergy",
                     "repo": "swantroller",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T16:32:03.302Z"
                 }
               ],
               "repo_info": {
@@ -857,7 +902,8 @@
                 "owner": "zwenergy",
                 "repo": "swancolorHD",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -872,7 +918,8 @@
                 "owner": "splash5",
                 "repo": "nisetro_wsc",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -894,7 +941,8 @@
                 "owner": "MiSTer-devel",
                 "repo": "WonderSwan_MiSTer",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             },
             {
               "node_type": "item",
@@ -909,7 +957,8 @@
                 "owner": "up-n-atom",
                 "repo": "WonderSwanCartTap",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "description": null,
@@ -921,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:07:41.540Z",
+    "last_updated": "2026-08-28T16:32:03.302Z",
     "original_repository_info": {
       "archived": false,
       "id": 507285371,
