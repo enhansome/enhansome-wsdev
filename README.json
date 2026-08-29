@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PTS-0101 Reproduction - Used in the WonderWitch, Judgement Silver Sword, Dicing Knight, and Tenori-On cartridges.",
+                    "homepage": null,
                     "id": 365337771,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-10-05T00:07:30Z",
+                    "open_issues": 0,
                     "owner": "up-n-atom",
                     "repo": "WonderWitch",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
                 }
@@ -42,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open software WS/WSC/SC/PCv2 flash cart",
+                "homepage": "https://www.49bitcat.com/docs/nileswan/",
                 "id": 675125810,
                 "language": "HTML",
-                "last_commit": "2026-08-27T14:09:53Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T18:58:11Z",
+                "open_issues": 3,
                 "owner": "49bitcat",
                 "repo": "nileswan",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -58,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wonderswan Bootsplash builder",
+                "homepage": null,
                 "id": 213696513,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-04-13T20:06:26Z",
+                "open_issues": 2,
                 "owner": "Godzil",
                 "repo": "splashbuilder",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -85,12 +100,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS",
+            "homepage": null,
             "id": 348129167,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-04T09:31:24Z",
+            "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2422
+            "stars": 2422,
+            "topics": [
+              "emulator",
+              "game-gear",
+              "gameboy",
+              "gba",
+              "master-system",
+              "nes",
+              "pc-engine",
+              "snes",
+              "wonderswan"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -106,24 +136,44 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bandai WonderSwan emulator for GameBoy Advance",
+                "homepage": null,
                 "id": 470584286,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2026-08-12T14:53:41Z",
+                "open_issues": 4,
                 "owner": "FluBBaOfWard",
                 "repo": "SwanGBA",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "bandai-wonderswan",
+                  "emulator",
+                  "nintendo-gba",
+                  "wonderswan"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Bandai WonderSwan (Color/Crystal) & Benesse PocketChallenge V2 emulator for the Nintendo DS(i)/3DS.",
+            "homepage": null,
             "id": 418228488,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-12T15:02:54Z",
+            "open_issues": 14,
             "owner": "FluBBaOfWard",
             "repo": "NitroSwan",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "bandai-wonderswan",
+              "emulator",
+              "nintendo-ds",
+              "wonderswan"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -134,12 +184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bandai WonderSwan and WonderSwan Color emulator written in C#",
+            "homepage": null,
             "id": 427796755,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-01-11T16:37:33Z",
+            "open_issues": 10,
             "owner": "xdanieldzd",
             "repo": "StoicGoose",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "emulator",
+              "wonderswan"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         }
@@ -156,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WonderSwan Color for MiSTer",
+            "homepage": null,
             "id": 376199170,
             "language": "VHDL",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-15T10:45:49Z",
+            "open_issues": 11,
             "owner": "MiSTer-devel",
             "repo": "WonderSwan_MiSTer",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -172,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WonderSwan emulator test suite",
+            "homepage": null,
             "id": 669822097,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-11-08T09:36:36Z",
+            "open_issues": 0,
             "owner": "asiekierka",
             "repo": "ws-test-suite",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -188,12 +258,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test the timing of the cpu in the WonderSwan",
+            "homepage": null,
             "id": 577877434,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2023-09-10T10:19:06Z",
+            "open_issues": 0,
             "owner": "FluBBaOfWard",
             "repo": "WSTimingTest",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "assembly-x86",
+              "cpu-profiling",
+              "wonderswan"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -204,12 +283,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Program for testing the WonderSwan CPU.",
+            "homepage": null,
             "id": 487609894,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2025-05-19T18:29:25Z",
+            "open_issues": 3,
             "owner": "FluBBaOfWard",
             "repo": "WSCpuTest",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cpu-tester",
+              "wonderswan",
+              "x86-assembly"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -220,12 +308,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardware test suite for WonderSwan",
+            "homepage": null,
             "id": 594838319,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2025-08-04T06:49:02Z",
+            "open_issues": 0,
             "owner": "FluBBaOfWard",
             "repo": "WSHWTest",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bandai-wonderswan",
+              "testing-tools",
+              "wonderswan"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -236,12 +333,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Program to test the Karnak mapper chip in some PCV2 carts.",
+            "homepage": null,
             "id": 994171733,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2025-07-09T13:32:03Z",
+            "open_issues": 0,
             "owner": "FluBBaOfWard",
             "repo": "KarnakTest",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "karnak",
+              "mapper",
+              "pocketchallengev2",
+              "wonderswan"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         }
@@ -258,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wonderswan Color toolchain based on Open Watcom v2",
+            "homepage": null,
             "id": 526355178,
             "language": "C",
+            "license": null,
             "last_commit": "2022-10-08T09:11:30Z",
+            "open_issues": 0,
             "owner": "jounikor",
             "repo": "owswan",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -278,12 +390,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WonderSwan Total Sound Driver (WTD)",
+                    "homepage": null,
                     "id": 197583774,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2019-07-18T13:47:50Z",
+                    "open_issues": 1,
                     "owner": "Shaw02",
                     "repo": "WTD",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "midi",
+                      "mml-compiler",
+                      "ms-dos",
+                      "wonderswan"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
                 }
@@ -306,12 +428,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various WonderSwan tools by Dekadence",
+                "homepage": null,
                 "id": 456115648,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-15T14:37:57Z",
+                "open_issues": 4,
                 "owner": "dekadencedemo",
                 "repo": "wonderswan-tools",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "demoscene",
+                  "wonderswan"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -322,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Wonderswan Bootsplash builder",
+                "homepage": null,
                 "id": 213696513,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-04-13T20:06:26Z",
+                "open_issues": 2,
                 "owner": "Godzil",
                 "repo": "splashbuilder",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -340,12 +475,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive, Master System, Game Gear, PC Engine and WonderSwan formats.",
+                    "homepage": null,
                     "id": 37061949,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-07-03T20:53:47Z",
+                    "open_issues": 22,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": [
+                      "console-development",
+                      "graphics",
+                      "tool"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
                 }
@@ -374,12 +518,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bad Apple!! for WSwan",
+                "homepage": null,
                 "id": 495279285,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2022-06-25T11:31:08Z",
+                "open_issues": 0,
                 "owner": "asiekierka",
                 "repo": "bad-apple-for-wswan",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "bad-apple",
+                  "wonderswan"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -390,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 721691358,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2023-11-22T11:54:32Z",
+                "open_issues": 0,
                 "owner": "tslanina",
                 "repo": "Retro-WonderSwanColor-Promo",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -406,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wonderswan Colour HBlank Cylinder Effect",
+                "homepage": null,
                 "id": 732809120,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-12-17T22:16:15Z",
+                "open_issues": 0,
                 "owner": "joffb",
                 "repo": "wsc-witch-cylinder",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -429,12 +591,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snake clone for Wonderswan Color ( NECV30 assembly )",
+                "homepage": null,
                 "id": 89241645,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2017-04-24T13:29:01Z",
+                "open_issues": 0,
                 "owner": "tslanina",
                 "repo": "Retro-WonderSwanColor-Wondersnake",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "game",
+                  "wonderswan",
+                  "wonderswan-color"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -452,12 +623,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embeddable Linux Kernel Subset - Linux for 8086",
+                "homepage": null,
                 "id": 14411731,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T23:25:26Z",
+                "open_issues": 27,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1693
+                "stars": 1694,
+                "topics": [
+                  "80186",
+                  "8086",
+                  "8086-architecture",
+                  "8088",
+                  "elks",
+                  "embeddable",
+                  "embedded",
+                  "embedded-linux",
+                  "ia-16",
+                  "kernel",
+                  "linux",
+                  "x86-16"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -468,12 +657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flashcart debugging menu for homebrew development.",
+                "homepage": null,
                 "id": 570884510,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-06T17:25:35Z",
+                "open_issues": 6,
                 "owner": "asiekierka",
                 "repo": "ws-cartfriend",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -484,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "144p Test Suite for WS",
+                "homepage": null,
                 "id": 826446974,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-14T05:17:49Z",
+                "open_issues": 1,
                 "owner": "asiekierka",
                 "repo": "240p-test-ws",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -500,12 +699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CHIP-8 emulator for WonderSwan",
+                "homepage": null,
                 "id": 668856812,
                 "language": "Roff",
+                "license": "MIT",
                 "last_commit": "2026-03-25T18:45:19Z",
+                "open_issues": 0,
                 "owner": "asiekierka",
                 "repo": "chips1",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -516,12 +720,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internal EEPROM viewer/editor for WonderSwan",
+                "homepage": null,
                 "id": 507423571,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-09T09:37:04Z",
+                "open_issues": 1,
                 "owner": "asiekierka",
                 "repo": "ws-ieepview",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "wonderswan"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -532,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WS Backup Tool for BootFriend",
+                "homepage": null,
                 "id": 600853126,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-31T18:13:35Z",
+                "open_issues": 1,
                 "owner": "asiekierka",
                 "repo": "ws-backup-tool",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -555,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prototype VGM player for WonderSwan",
+                "homepage": null,
                 "id": 581330620,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-03-29T15:07:52Z",
+                "open_issues": 0,
                 "owner": "asiekierka",
                 "repo": "vgmswan",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -582,12 +803,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Clean room FreyaBIOS/FreyaOS reimplementation",
+            "homepage": null,
             "id": 832732605,
             "language": "Assembly",
+            "license": "MIT",
             "last_commit": "2025-11-30T15:54:10Z",
+            "open_issues": 13,
             "owner": "OpenWitch",
             "repo": "AthenaOS",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "wonderswan",
+              "wonderwitch"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -598,12 +827,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Development library reimplementation: crt0, libww, libwwc",
+            "homepage": null,
             "id": 874202878,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2025-11-26T19:40:06Z",
+            "open_issues": 0,
             "owner": "OpenWitch",
             "repo": "ow-libs",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "wonderswan",
+              "wonderwitch"
+            ]
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -614,12 +851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Startup Code for WonderWitch and Visual C++ 1.5 for C Language",
+            "homepage": null,
             "id": 282139474,
             "language": "Assembly",
+            "license": "MIT",
             "last_commit": "2020-07-24T06:23:30Z",
+            "open_issues": 0,
             "owner": "autumn009",
             "repo": "wonderwitchvc15",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:32:03.302Z"
         },
@@ -632,12 +874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 134234427,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2019-06-19T17:36:37Z",
+                "open_issues": 0,
                 "owner": "Godzil",
                 "repo": "MiracleMage",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -648,12 +895,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "exe2fbin",
+                "homepage": null,
                 "id": 875168841,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-10-19T12:14:39Z",
+                "open_issues": 0,
                 "owner": "OpenWitch",
                 "repo": "exe2fbin",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "wonderswan",
+                  "wonderwitch"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -671,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repo for my WonderWitch development",
+                "homepage": null,
                 "id": 287161248,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-10-02T03:26:50Z",
+                "open_issues": 1,
                 "owner": "dwalizer",
                 "repo": "wonderwitch",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -696,12 +956,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 492478533,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-06-25T11:10:51Z",
+                    "open_issues": 0,
                     "owner": "WonderfulToolchain",
                     "repo": "yoppa",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
                 }
@@ -719,12 +984,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WonderWitch Software",
+                    "homepage": null,
                     "id": 273558817,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2024-09-17T05:54:56Z",
+                    "open_issues": 0,
                     "owner": "up-n-atom",
                     "repo": "wwsoft",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
                 },
@@ -735,12 +1005,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "WonderWitch terminal program \"WWTerm\" patched to compile with Wonderful: http://www.kozos.jp/ww/index.html",
+                    "homepage": null,
                     "id": 492340982,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-06-25T11:10:17Z",
+                    "open_issues": 0,
                     "owner": "WonderfulToolchain",
                     "repo": "WWTerm",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
                 }
@@ -769,12 +1044,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open software WS/WSC/SC/PCv2 flash cart",
+                "homepage": "https://www.49bitcat.com/docs/nileswan/",
                 "id": 675125810,
                 "language": "HTML",
-                "last_commit": "2026-08-27T14:09:53Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T18:58:11Z",
+                "open_issues": 3,
                 "owner": "49bitcat",
                 "repo": "nileswan",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -785,12 +1065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bandai 2003",
+                "homepage": null,
                 "id": 290872566,
                 "language": "Verilog",
+                "license": "MIT",
                 "last_commit": "2023-02-05T20:50:02Z",
+                "open_issues": 0,
                 "owner": "up-n-atom",
                 "repo": "Bandai2003",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -808,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open headphone adapter for the WonderSwan.",
+                "homepage": null,
                 "id": 361478240,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-23T18:49:22Z",
+                "open_issues": 0,
                 "owner": "zwenergy",
                 "repo": "wsheadphone",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -824,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multitool adapter for the WonderSwan. Headphone, serial and link cable adapter in one.",
+                "homepage": null,
                 "id": 732444800,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-03T09:22:56Z",
+                "open_issues": 0,
                 "owner": "zwenergy",
                 "repo": "WSMtool",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -840,12 +1135,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WonderSwan EXT port <-> USB adapter for homebrew development.",
+                "homepage": null,
                 "id": 570884586,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-17T19:35:37Z",
+                "open_issues": 1,
                 "owner": "asiekierka",
                 "repo": "ws-extfriend",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "raspberry-pi-pico",
+                  "wonderswan"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -856,12 +1159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A link cable adapter for the WonderSwan which uses a USB-C cable.",
+                "homepage": null,
                 "id": 582656560,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-29T07:50:24Z",
+                "open_issues": 0,
                 "owner": "zwenergy",
                 "repo": "WS-LinkC",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -884,24 +1192,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A WonderSwan Color controller PCB for the swancolorHD.",
+                    "homepage": null,
                     "id": 827983773,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-16T09:01:47Z",
+                    "open_issues": 1,
                     "owner": "zwenergy",
                     "repo": "swantroller",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source WonderSwan Color consolizer.",
+                "homepage": null,
                 "id": 513048883,
                 "language": "GLSL",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-04T11:14:22Z",
+                "open_issues": 3,
                 "owner": "zwenergy",
                 "repo": "swancolorHD",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -912,12 +1230,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Capturing and perviewing WonderSwan Color screen/audio with カメレオンUSB FX2",
+                "homepage": null,
                 "id": 360751508,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-02-23T03:56:51Z",
+                "open_issues": 0,
                 "owner": "splash5",
                 "repo": "nisetro_wsc",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "fx2lp",
+                  "max2",
+                  "sdl2",
+                  "wonderswan"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -935,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WonderSwan Color for MiSTer",
+                "homepage": null,
                 "id": 376199170,
                 "language": "VHDL",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-15T10:45:49Z",
+                "open_issues": 11,
                 "owner": "MiSTer-devel",
                 "repo": "WonderSwan_MiSTer",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             },
@@ -951,12 +1284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USB WonderSwan Cartridge Utility",
+                "homepage": null,
                 "id": 424428914,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-02-24T03:15:56Z",
+                "open_issues": 0,
                 "owner": "up-n-atom",
                 "repo": "WonderSwanCartTap",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
             }
@@ -970,15 +1308,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:32:03.302Z",
+    "last_updated": "2026-08-29T04:59:47.718Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of WonderSwan development resources.",
+      "homepage": null,
       "id": 507285371,
       "language": "Assembly",
+      "license": null,
       "last_commit": "2026-04-20T15:17:09Z",
+      "open_issues": 0,
       "owner": "WonderfulToolchain",
       "repo": "awesome-wsdev",
-      "stars": 93
+      "stars": 93,
+      "topics": [
+        "8086",
+        "awesome",
+        "awesome-list",
+        "documentation",
+        "gamedev",
+        "list",
+        "wonderswan",
+        "wonderwitch"
+      ]
     },
     "original_repository_sha": "492fcd269cbf656115fb83726ac311b61e18eb07",
     "enhanced_repository": "enhansome/enhansome-wsdev",

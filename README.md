@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,776 | 🐛 105 | 📅 2026-08-21 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,897 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -81,7 +81,7 @@ and assemblers typically use Intel opcode names. A translation map between the t
 
 ### Other documentation
 
-* [Retail cartridges](https://github.com/RSDuck/nileswan/blob/main/docs/retail_cartridges.md) ⭐ 82 | 🐛 3 | 🌐 HTML | 📅 2026-08-27 - cartridge logic analyzer and requirement documentation.
+* [Retail cartridges](https://github.com/RSDuck/nileswan/blob/main/docs/retail_cartridges.md) ⭐ 82 | 🐛 3 | 🌐 HTML | 📅 2026-08-28 - cartridge logic analyzer and requirement documentation.
 * [splashbuilder readme](https://github.com/Godzil/splashbuilder/blob/master/README.md) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2021-04-13 - WonderSwan Color custom boot splash format.
 * [Everything You Never Wanted to Know about the WonderSwan RTC](https://forums.nesdev.org/viewtopic.php?t=21513)
 * [.WSR file format documentation](archive/in_wsr.txt) (Japanese) - popular WonderSwan standalone/emulated music file format.
@@ -163,7 +163,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ### Other programs
 
-* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,693 | 🐛 27 | 🌐 C | 📅 2026-08-13 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,694 | 🐛 27 | 🌐 C | 📅 2026-08-13 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
 * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2026-01-06 (GPL-3.0) - WonderSwan cartridge menu/launcher
 * [144p Test Suite for WS](https://github.com/asiekierka/240p-test-ws) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2026-06-14 (GPL-3.0) - 240p Test Suite-inspired user-side testing tool
 * [Chips1](https://github.com/asiekierka/chips1) ⭐ 4 | 🐛 0 | 🌐 Roff | 📅 2026-03-25 (MIT) - CHIP-8/SuperCHIP emulator.
@@ -224,7 +224,7 @@ This section only lists programs whose source code is explicitly listed under op
 
 ### Cartridges
 
-* [nileswan](https://github.com/RSDuck/nileswan/) ⭐ 82 | 🐛 3 | 🌐 HTML | 📅 2026-08-27 (GPLv3) - open-source flash cartridge.
+* [nileswan](https://github.com/RSDuck/nileswan/) ⭐ 82 | 🐛 3 | 🌐 HTML | 📅 2026-08-28 (GPLv3) - open-source flash cartridge.
 * [Bandai2003](https://github.com/up-n-atom/Bandai2003) ⭐ 6 | 🐛 0 | 🌐 Verilog | 📅 2023-02-05 (MIT) - Verilog "2003" mapper implementation.
 * [mbc-unlock](https://bitbucket.org/trap15/mbc-unlock) (CC0) - VHDL boot handshake implementation.
 
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
