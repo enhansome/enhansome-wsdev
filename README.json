@@ -52,7 +52,7 @@
                 "id": 675125810,
                 "language": "HTML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T18:58:11Z",
+                "last_commit": "2026-08-30T08:14:09Z",
                 "open_issues": 3,
                 "owner": "49bitcat",
                 "repo": "nileswan",
@@ -1049,7 +1049,7 @@
                 "id": 675125810,
                 "language": "HTML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T18:58:11Z",
+                "last_commit": "2026-08-30T08:14:09Z",
                 "open_issues": 3,
                 "owner": "49bitcat",
                 "repo": "nileswan",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:59:34.178Z",
+    "last_updated": "2026-08-30T09:53:37.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
