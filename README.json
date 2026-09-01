@@ -109,7 +109,7 @@
             "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2421,
+            "stars": 2422,
             "topics": [
               "emulator",
               "game-gear",
@@ -480,8 +480,8 @@
                     "id": 37061949,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T23:23:23Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-08-31T22:34:18Z",
+                    "open_issues": 21,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 190,
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:46:28.729Z",
+    "last_updated": "2026-09-01T09:20:52.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
