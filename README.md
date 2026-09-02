@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,835 | 🐛 105 | 📅 2026-08-21 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,155 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -140,7 +140,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 #### Graphics utilities
 
-* **[SuperFamiconv](https://github.com/Optiroc/SuperFamiconv) ⭐ 190 | 🐛 21 | 🌐 C++ | 📅 2026-08-31** (MIT) - tile/map converter with flexible palette/optimization options and mostly-complete WS/WSC support.
+* **[SuperFamiconv](https://github.com/Optiroc/SuperFamiconv) ⭐ 190 | 🐛 21 | 🌐 C++ | 📅 2026-09-01** (MIT) - tile/map converter with flexible palette/optimization options and mostly-complete WS/WSC support.
 * [bmp2swan](http://onorisoft.free.fr/retro.htm?ws/ws.htm) - simple bitmap converter.
 
 ## Source code
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
