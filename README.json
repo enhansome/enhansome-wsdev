@@ -480,7 +480,7 @@
                     "id": 37061949,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T22:08:57Z",
+                    "last_commit": "2026-09-04T16:07:51Z",
                     "open_issues": 21,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
@@ -632,7 +632,7 @@
                 "open_issues": 27,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1697,
+                "stars": 1698,
                 "topics": [
                   "80186",
                   "8086",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:47:06.021Z",
+    "last_updated": "2026-09-05T08:17:12.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
