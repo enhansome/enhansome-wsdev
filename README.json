@@ -478,10 +478,10 @@
                     "description": "Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive, Master System, Game Gear, PC Engine and WonderSwan formats.",
                     "homepage": null,
                     "id": 37061949,
-                    "language": "C++",
+                    "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T16:07:51Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-09-09T22:09:26Z",
+                    "open_issues": 9,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 191,
@@ -632,7 +632,7 @@
                 "open_issues": 29,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1700,
+                "stars": 1699,
                 "topics": [
                   "80186",
                   "8086",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:54:41.639Z",
+    "last_updated": "2026-09-10T08:53:34.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
