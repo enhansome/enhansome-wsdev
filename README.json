@@ -52,7 +52,7 @@
                 "id": 675125810,
                 "language": "HTML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T17:08:02Z",
+                "last_commit": "2026-09-10T13:20:53Z",
                 "open_issues": 3,
                 "owner": "49bitcat",
                 "repo": "nileswan",
@@ -109,7 +109,7 @@
             "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2420,
+            "stars": 2421,
             "topics": [
               "emulator",
               "game-gear",
@@ -480,8 +480,8 @@
                     "id": 37061949,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T22:09:26Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-10T23:17:22Z",
+                    "open_issues": 3,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 191,
@@ -632,7 +632,7 @@
                 "open_issues": 29,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1699,
+                "stars": 1700,
                 "topics": [
                   "80186",
                   "8086",
@@ -1049,7 +1049,7 @@
                 "id": 675125810,
                 "language": "HTML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T17:08:02Z",
+                "last_commit": "2026-09-10T13:20:53Z",
                 "open_issues": 3,
                 "owner": "49bitcat",
                 "repo": "nileswan",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:53:34.166Z",
+    "last_updated": "2026-09-11T08:51:00.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
