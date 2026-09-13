@@ -480,8 +480,8 @@
                     "id": 37061949,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T15:39:04Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-12T23:58:44Z",
+                    "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
                     "stars": 191,
@@ -632,7 +632,7 @@
                 "open_issues": 29,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1701,
+                "stars": 1703,
                 "topics": [
                   "80186",
                   "8086",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:34:29.022Z",
+    "last_updated": "2026-09-13T09:27:25.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
@@ -1320,7 +1320,7 @@
       "open_issues": 0,
       "owner": "WonderfulToolchain",
       "repo": "awesome-wsdev",
-      "stars": 94,
+      "stars": 95,
       "topics": [
         "8086",
         "awesome",
