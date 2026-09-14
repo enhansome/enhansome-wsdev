@@ -480,11 +480,11 @@
                     "id": 37061949,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-12T23:58:44Z",
+                    "last_commit": "2026-09-13T19:49:47Z",
                     "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": [
                       "console-development",
                       "graphics",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:27:25.427Z",
+    "last_updated": "2026-09-14T09:46:35.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
