@@ -73,7 +73,7 @@
                 "id": 213696513,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2021-04-13T20:06:26Z",
+                "last_commit": "2026-09-16T18:48:24Z",
                 "open_issues": 2,
                 "owner": "Godzil",
                 "repo": "splashbuilder",
@@ -457,7 +457,7 @@
                 "id": 213696513,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2021-04-13T20:06:26Z",
+                "last_commit": "2026-09-16T18:48:24Z",
                 "open_issues": 2,
                 "owner": "Godzil",
                 "repo": "splashbuilder",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:14:13.150Z",
+    "last_updated": "2026-09-17T09:22:35.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
