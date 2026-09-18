@@ -109,7 +109,7 @@
             "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2421,
+            "stars": 2420,
             "topics": [
               "emulator",
               "game-gear",
@@ -480,11 +480,11 @@
                     "id": 37061949,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T22:24:18Z",
+                    "last_commit": "2026-09-17T11:01:40Z",
                     "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 192,
+                    "stars": 193,
                     "topics": [
                       "console-development",
                       "graphics",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:22:35.799Z",
+    "last_updated": "2026-09-18T08:57:14.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
