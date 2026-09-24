@@ -167,7 +167,7 @@
             "open_issues": 15,
             "owner": "FluBBaOfWard",
             "repo": "NitroSwan",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "bandai-wonderswan",
               "emulator",
@@ -632,7 +632,7 @@
                 "open_issues": 28,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1706,
+                "stars": 1708,
                 "topics": [
                   "80186",
                   "8086",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:14:59.511Z",
+    "last_updated": "2026-09-24T09:13:49.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
