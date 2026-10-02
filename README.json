@@ -484,7 +484,7 @@
                     "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 194,
+                    "stars": 195,
                     "topics": [
                       "console-development",
                       "graphics",
@@ -629,7 +629,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T15:28:07Z",
-                "open_issues": 28,
+                "open_issues": 31,
                 "owner": "ghaerr",
                 "repo": "elks",
                 "stars": 1713,
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:52:31.650Z",
+    "last_updated": "2026-10-02T10:26:15.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
