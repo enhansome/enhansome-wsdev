@@ -109,7 +109,7 @@
             "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2422,
+            "stars": 2421,
             "topics": [
               "emulator",
               "game-gear",
@@ -386,7 +386,7 @@
                 {
                   "node_type": "item",
                   "title": "WonderSwan Total Sound Driver",
-                  "description": null,
+                  "description": "Shaw02/WTD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "HBlank Cylinder Effect",
-              "description": null,
+              "description": "joffb/wsc-witch-cylinder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T15:28:07Z",
-                "open_issues": 31,
+                "open_issues": 33,
                 "owner": "ghaerr",
                 "repo": "elks",
                 "stars": 1713,
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:26:15.838Z",
+    "last_updated": "2026-10-03T05:16:12.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
@@ -1320,7 +1320,7 @@
       "open_issues": 0,
       "owner": "WonderfulToolchain",
       "repo": "awesome-wsdev",
-      "stars": 96,
+      "stars": 97,
       "topics": [
         "8086",
         "awesome",
