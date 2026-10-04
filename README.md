@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,873 | 🐛 106 | 📅 2026-09-02 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,399 | 🐛 107 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -110,7 +110,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 * [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) ⭐ 15 | 🐛 11 | 🌐 VHDL | 📅 2026-08-15 - sprite priority/window testing tool
 * [ws-test-suite](https://github.com/asiekierka/ws-test-suite) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2025-11-08 (MIT) - assorted hardware tests and testing tools
 * [WSTimingTest](https://github.com/FluBBaOfWard/WSTimingTest) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2023-09-10 - V30MZ CPU timing
-* [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) ⭐ 3 | 🐛 3 | 🌐 Assembly | 📅 2025-05-19 - V30MZ CPU behaviour
+* [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) ⭐ 3 | 🐛 3 | 🌐 Assembly | 📅 2026-10-04 - V30MZ CPU behaviour
 * [WSHWTest](https://github.com/FluBBaOfWard/WSHWTest) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2025-08-04 - SoC interrupt/PPU timer handling
 * [KarnakTest](https://github.com/FluBBaOfWard/KarnakTest) ⭐ 1 | 🐛 0 | 🌐 Assembly | 📅 2025-07-09 - PCv2 KARNAK timer/ADPCM mapper testing
 * [rtctest](https://forums.nesdev.org/viewtopic.php?t=21513) - "2003 mapper + S-3511" RTC protocol and behaviour
@@ -163,7 +163,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ### Other programs
 
-* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,713 | 🐛 33 | 🌐 C | 📅 2026-09-30 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,714 | 🐛 33 | 🌐 C | 📅 2026-09-30 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
 * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2026-01-06 (GPL-3.0) - WonderSwan cartridge menu/launcher
 * [144p Test Suite for WS](https://github.com/asiekierka/240p-test-ws) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2026-06-14 (GPL-3.0) - 240p Test Suite-inspired user-side testing tool
 * [Chips1](https://github.com/asiekierka/chips1) ⭐ 4 | 🐛 0 | 🌐 Roff | 📅 2026-03-25 (MIT) - CHIP-8/SuperCHIP emulator.
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

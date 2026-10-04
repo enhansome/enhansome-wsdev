@@ -288,7 +288,7 @@
             "id": 487609894,
             "language": "Assembly",
             "license": null,
-            "last_commit": "2025-05-19T18:29:25Z",
+            "last_commit": "2026-10-04T08:46:02Z",
             "open_issues": 3,
             "owner": "FluBBaOfWard",
             "repo": "WSCpuTest",
@@ -632,7 +632,7 @@
                 "open_issues": 33,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "80186",
                   "8086",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:48:09.122Z",
+    "last_updated": "2026-10-04T10:31:22.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
