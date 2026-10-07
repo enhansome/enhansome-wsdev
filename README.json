@@ -109,7 +109,7 @@
             "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2417,
+            "stars": 2416,
             "topics": [
               "emulator",
               "game-gear",
@@ -288,7 +288,7 @@
             "id": 487609894,
             "language": "Assembly",
             "license": null,
-            "last_commit": "2026-10-05T15:42:29Z",
+            "last_commit": "2026-10-07T07:30:54Z",
             "open_issues": 3,
             "owner": "FluBBaOfWard",
             "repo": "WSCpuTest",
@@ -632,7 +632,7 @@
                 "open_issues": 29,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1714,
+                "stars": 1715,
                 "topics": [
                   "80186",
                   "8086",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:11:23.960Z",
+    "last_updated": "2026-10-07T10:59:33.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
