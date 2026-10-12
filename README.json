@@ -222,7 +222,7 @@
             "language": "VHDL",
             "license": "GPL-2.0",
             "last_commit": "2026-08-15T10:45:49Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "MiSTer-devel",
             "repo": "WonderSwan_MiSTer",
             "stars": 15,
@@ -629,7 +629,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T14:35:24Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "ghaerr",
                 "repo": "elks",
                 "stars": 1719,
@@ -1269,7 +1269,7 @@
                 "language": "VHDL",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-15T10:45:49Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "MiSTer-devel",
                 "repo": "WonderSwan_MiSTer",
                 "stars": 15,
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:45:03.925Z",
+    "last_updated": "2026-10-12T11:51:04.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
