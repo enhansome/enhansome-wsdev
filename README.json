@@ -109,7 +109,7 @@
             "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2414,
+            "stars": 2415,
             "topics": [
               "emulator",
               "game-gear",
@@ -399,7 +399,7 @@
                     "open_issues": 1,
                     "owner": "Shaw02",
                     "repo": "WTD",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "midi",
                       "mml-compiler",
@@ -629,7 +629,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-05T14:35:24Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "ghaerr",
                 "repo": "elks",
                 "stars": 1719,
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T11:51:04.314Z",
+    "last_updated": "2026-10-13T11:39:49.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",

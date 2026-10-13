@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,915 | 🐛 105 | 📅 2026-09-02 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,397 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -130,7 +130,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 #### Music drivers
 
-* [WonderSwan Total Sound Driver](https://github.com/Shaw02/WTD) ⭐ 12 | 🐛 1 | 🌐 Assembly | 📅 2019-07-18
+* [WonderSwan Total Sound Driver](https://github.com/Shaw02/WTD) ⭐ 13 | 🐛 1 | 🌐 Assembly | 📅 2019-07-18
 * [Cygnals](github.com/joffb/cygnals) (MIT) - partially Furnace compatible audio driver.
 
 ### Tools
@@ -163,7 +163,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ### Other programs
 
-* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,719 | 🐛 30 | 🌐 C | 📅 2026-10-05 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,719 | 🐛 29 | 🌐 C | 📅 2026-10-05 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
 * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2026-01-06 (GPL-3.0) - WonderSwan cartridge menu/launcher
 * [144p Test Suite for WS](https://github.com/asiekierka/240p-test-ws) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2026-06-14 (GPL-3.0) - 240p Test Suite-inspired user-side testing tool
 * [Chips1](https://github.com/asiekierka/chips1) ⭐ 4 | 🐛 0 | 🌐 Roff | 📅 2026-03-25 (MIT) - CHIP-8/SuperCHIP emulator.
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
