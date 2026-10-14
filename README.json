@@ -109,7 +109,7 @@
             "open_issues": 23,
             "owner": "SourMesen",
             "repo": "Mesen2",
-            "stars": 2415,
+            "stars": 2416,
             "topics": [
               "emulator",
               "game-gear",
@@ -221,7 +221,7 @@
             "id": 376199170,
             "language": "VHDL",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-15T10:45:49Z",
+            "last_commit": "2026-10-13T14:11:22Z",
             "open_issues": 12,
             "owner": "MiSTer-devel",
             "repo": "WonderSwan_MiSTer",
@@ -1268,7 +1268,7 @@
                 "id": 376199170,
                 "language": "VHDL",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-15T10:45:49Z",
+                "last_commit": "2026-10-13T14:11:22Z",
                 "open_issues": 12,
                 "owner": "MiSTer-devel",
                 "repo": "WonderSwan_MiSTer",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:39:49.289Z",
+    "last_updated": "2026-10-14T09:26:23.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",

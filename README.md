@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,397 | 🐛 105 | 📅 2026-09-02 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,838 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -107,7 +107,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ## Test ROMs
 
-* [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) ⭐ 15 | 🐛 12 | 🌐 VHDL | 📅 2026-08-15 - sprite priority/window testing tool
+* [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) ⭐ 15 | 🐛 12 | 🌐 VHDL | 📅 2026-10-13 - sprite priority/window testing tool
 * [ws-test-suite](https://github.com/asiekierka/ws-test-suite) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2025-11-08 (MIT) - assorted hardware tests and testing tools
 * [WSTimingTest](https://github.com/FluBBaOfWard/WSTimingTest) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2023-09-10 - V30MZ CPU timing
 * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) ⭐ 3 | 🐛 3 | 🌐 Assembly | 📅 2026-10-07 - V30MZ CPU behaviour
@@ -243,7 +243,7 @@ This section only lists programs whose source code is explicitly listed under op
 
 ### Other hardware development
 
-* [WonderSwan for MiSTer](https://github.com/MiSTer-devel/WonderSwan_MiSTer) ⭐ 15 | 🐛 12 | 🌐 VHDL | 📅 2026-08-15 (GPL-2.0)
+* [WonderSwan for MiSTer](https://github.com/MiSTer-devel/WonderSwan_MiSTer) ⭐ 15 | 🐛 12 | 🌐 VHDL | 📅 2026-10-13 (GPL-2.0)
 * [USB WonderSwan Cartridge Utility](https://github.com/up-n-atom/WonderSwanCartTap) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2022-02-24 (MIT) - cartridge dumper and programmer.
 
 ## Historical
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
