@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:04:56.349Z",
+    "last_updated": "2026-10-26T10:00:11.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
@@ -1320,7 +1320,7 @@
       "open_issues": 0,
       "owner": "WonderfulToolchain",
       "repo": "awesome-wsdev",
-      "stars": 97,
+      "stars": 98,
       "topics": [
         "8086",
         "awesome",
