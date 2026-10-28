@@ -632,7 +632,7 @@
                 "open_issues": 30,
                 "owner": "ghaerr",
                 "repo": "elks",
-                "stars": 1718,
+                "stars": 1719,
                 "topics": [
                   "80186",
                   "8086",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:44:28.160Z",
+    "last_updated": "2026-10-28T10:29:42.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
