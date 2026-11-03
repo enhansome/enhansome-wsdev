@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,246 | 🐛 105 | 📅 2026-09-02 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,976 | 🐛 104 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -112,7 +112,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 * [WSTimingTest](https://github.com/FluBBaOfWard/WSTimingTest) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2023-09-10 - V30MZ CPU timing
 * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) ⭐ 3 | 🐛 3 | 🌐 Assembly | 📅 2026-10-07 - V30MZ CPU behaviour
 * [WSHWTest](https://github.com/FluBBaOfWard/WSHWTest) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2025-08-04 - SoC interrupt/PPU timer handling
-* [KarnakTest](https://github.com/FluBBaOfWard/KarnakTest) ⭐ 1 | 🐛 0 | 🌐 Assembly | 📅 2025-07-09 - PCv2 KARNAK timer/ADPCM mapper testing
+* [KarnakTest](https://github.com/FluBBaOfWard/KarnakTest) ⭐ 1 | 🐛 0 | 🌐 Assembly | 📅 2026-11-02 - PCv2 KARNAK timer/ADPCM mapper testing
 * [rtctest](https://forums.nesdev.org/viewtopic.php?t=21513) - "2003 mapper + S-3511" RTC protocol and behaviour
 
 ## Software development
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

@@ -338,7 +338,7 @@
             "id": 994171733,
             "language": "Assembly",
             "license": null,
-            "last_commit": "2025-07-09T13:32:03Z",
+            "last_commit": "2026-11-02T19:33:00Z",
             "open_issues": 0,
             "owner": "FluBBaOfWard",
             "repo": "KarnakTest",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:14:08.450Z",
+    "last_updated": "2026-11-03T11:49:14.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
