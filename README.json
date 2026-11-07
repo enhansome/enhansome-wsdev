@@ -52,8 +52,8 @@
                 "id": 675125810,
                 "language": "HTML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T09:28:34Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-07T10:15:12Z",
+                "open_issues": 4,
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 84,
@@ -232,27 +232,6 @@
         },
         {
           "node_type": "item",
-          "title": "ws-test-suite",
-          "description": "(MIT) - assorted hardware tests and testing tools",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "WonderSwan emulator test suite",
-            "homepage": null,
-            "id": 669822097,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2025-11-08T09:36:36Z",
-            "open_issues": 0,
-            "owner": "asiekierka",
-            "repo": "ws-test-suite",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:32:03.302Z"
-        },
-        {
-          "node_type": "item",
           "title": "WSTimingTest",
           "description": "V30MZ CPU timing",
           "children": [],
@@ -408,6 +387,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T16:32:03.302Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cygnals",
+                  "description": "(MIT) - partially Furnace compatible audio driver.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Wonderswan Sound Driver",
+                    "homepage": null,
+                    "id": 978346709,
+                    "language": "Assembly",
+                    "license": "MIT",
+                    "last_commit": "2026-06-26T16:56:54Z",
+                    "open_issues": 0,
+                    "owner": "joffb",
+                    "repo": "cygnals",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-07T10:58:34.489Z"
                 }
               ],
               "description": null,
@@ -484,7 +484,7 @@
                     "open_issues": 0,
                     "owner": "Optiroc",
                     "repo": "SuperFamiconv",
-                    "stars": 198,
+                    "stars": 197,
                     "topics": [
                       "console-development",
                       "graphics",
@@ -608,6 +608,48 @@
                 ]
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Snail Maze+",
+              "description": "(MIT) - Wonderful example project inspired by an early console game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WonderSwan sample project for simple maze game",
+                "homepage": null,
+                "id": 1215252151,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-04-19T17:31:04Z",
+                "open_issues": 0,
+                "owner": "xdanieldzd",
+                "repo": "WS-Maze",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T10:58:34.489Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WonderBreakanoid",
+              "description": "(MIT) - Breakanoid-style game written with Wonderful.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1165084127,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-02-27T00:27:27Z",
+                "open_issues": 0,
+                "owner": "xdanieldzd",
+                "repo": "WonderBreakanoid",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T10:58:34.489Z"
             }
           ],
           "description": null,
@@ -667,27 +709,6 @@
                 "owner": "asiekierka",
                 "repo": "ws-cartfriend",
                 "stars": 43,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:32:03.302Z"
-            },
-            {
-              "node_type": "item",
-              "title": "144p Test Suite for WS",
-              "description": "(GPL-3.0) - 240p Test Suite-inspired user-side testing tool",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "144p Test Suite for WS",
-                "homepage": null,
-                "id": 826446974,
-                "language": "C",
-                "license": "GPL-3.0",
-                "last_commit": "2026-06-14T05:17:49Z",
-                "open_issues": 1,
-                "owner": "asiekierka",
-                "repo": "240p-test-ws",
-                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
@@ -1049,8 +1070,8 @@
                 "id": 675125810,
                 "language": "HTML",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T09:28:34Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-07T10:15:12Z",
+                "open_issues": 4,
                 "owner": "49bitcat",
                 "repo": "nileswan",
                 "stars": 84,
@@ -1308,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:59:06.226Z",
+    "last_updated": "2026-11-07T10:58:34.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
@@ -1316,7 +1337,7 @@
       "id": 507285371,
       "language": "Assembly",
       "license": null,
-      "last_commit": "2026-04-20T15:17:09Z",
+      "last_commit": "2026-11-06T20:29:49Z",
       "open_issues": 0,
       "owner": "WonderfulToolchain",
       "repo": "awesome-wsdev",
@@ -1332,7 +1353,7 @@
         "wonderwitch"
       ]
     },
-    "original_repository_sha": "492fcd269cbf656115fb83726ac311b61e18eb07",
+    "original_repository_sha": "aba407af19c5f78b140a8f84bdf3bd755705489a",
     "enhanced_repository": "enhansome/enhansome-wsdev",
     "enhanced_repository_description": null,
     "title": "Awesome WonderSwan Development with stars"

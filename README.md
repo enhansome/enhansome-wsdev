@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,096 | 🐛 103 | 📅 2026-09-02 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,785 | 🐛 103 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -81,7 +81,7 @@ and assemblers typically use Intel opcode names. A translation map between the t
 
 ### Other documentation
 
-* [Retail cartridges](https://github.com/RSDuck/nileswan/blob/main/docs/retail_cartridges.md) ⭐ 84 | 🐛 3 | 🌐 HTML | 📅 2026-09-20 - cartridge logic analyzer and requirement documentation.
+* [Retail cartridges](https://github.com/RSDuck/nileswan/blob/main/docs/retail_cartridges.md) ⭐ 84 | 🐛 4 | 🌐 HTML | 📅 2026-11-07 - cartridge logic analyzer and requirement documentation.
 * [splashbuilder readme](https://github.com/Godzil/splashbuilder/blob/master/README.md) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - WonderSwan Color custom boot splash format.
 * [Everything You Never Wanted to Know about the WonderSwan RTC](https://forums.nesdev.org/viewtopic.php?t=21513)
 * [.WSR file format documentation](archive/in_wsr.txt) (Japanese) - popular WonderSwan standalone/emulated music file format.
@@ -108,12 +108,13 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 ## Test ROMs
 
 * [Robert Peip's test ROMs](https://github.com/MiSTer-devel/WonderSwan_MiSTer/tree/main/testroms) ⭐ 15 | 🐛 12 | 🌐 VHDL | 📅 2026-10-13 - sprite priority/window testing tool
-* [ws-test-suite](https://github.com/asiekierka/ws-test-suite) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2025-11-08 (MIT) - assorted hardware tests and testing tools
 * [WSTimingTest](https://github.com/FluBBaOfWard/WSTimingTest) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2023-09-10 - V30MZ CPU timing
 * [WSCPUTest](https://github.com/FluBBaOfWard/WSCPUTest) ⭐ 3 | 🐛 3 | 🌐 Assembly | 📅 2026-10-07 - V30MZ CPU behaviour
 * [WSHWTest](https://github.com/FluBBaOfWard/WSHWTest) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2025-08-04 - SoC interrupt/PPU timer handling
 * [KarnakTest](https://github.com/FluBBaOfWard/KarnakTest) ⭐ 1 | 🐛 0 | 🌐 Assembly | 📅 2026-11-02 - PCv2 KARNAK timer/ADPCM mapper testing
-* [rtctest](https://forums.nesdev.org/viewtopic.php?t=21513) - "2003 mapper + S-3511" RTC protocol and behaviour
+* [ws-rtc-test](https://codeberg.org/asie/ws-rtc-test) (MIT) - automated RTC test suite
+* [ws-test-suite](https://codeberg.org/asie/ws-test-suite) (MIT) - assorted hardware tests and testing tools
+* [rtctest](https://forums.nesdev.org/viewtopic.php?t=21513) - manual RTC testing tool + research notes
 
 ## Software development
 
@@ -131,7 +132,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 #### Music drivers
 
 * [WonderSwan Total Sound Driver](https://github.com/Shaw02/WTD) ⭐ 13 | 🐛 1 | 🌐 Assembly | 📅 2019-07-18
-* [Cygnals](github.com/joffb/cygnals) (MIT) - partially Furnace compatible audio driver.
+* [Cygnals](https://github.com/joffb/cygnals) ⭐ 6 | 🐛 0 | 🌐 Assembly | 📅 2026-06-26 (MIT) - partially Furnace compatible audio driver.
 
 ### Tools
 
@@ -140,7 +141,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 #### Graphics utilities
 
-* **[SuperFamiconv](https://github.com/Optiroc/SuperFamiconv) ⭐ 198 | 🐛 0 | 🌐 Rust | 📅 2026-09-25** (MIT) - tile/map converter with flexible palette/optimization options and mostly-complete WS/WSC support.
+* **[SuperFamiconv](https://github.com/Optiroc/SuperFamiconv) ⭐ 197 | 🐛 0 | 🌐 Rust | 📅 2026-09-25** (MIT) - tile/map converter with flexible palette/optimization options and mostly-complete WS/WSC support.
 * [bmp2swan](http://onorisoft.free.fr/retro.htm?ws/ws.htm) - simple bitmap converter.
 
 ## Source code
@@ -158,17 +159,20 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 ### Games
 
 * [WonderSnake](https://github.com/tslanina/Retro-WonderSwanColor-Wondersnake) ⭐ 9 | 🐛 0 | 🌐 Assembly | 📅 2017-04-24 (GPL-3.0) - Snake game written with Borland TASM.
+* [Snail Maze+](https://github.com/xdanieldzd/WS-Maze) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2026-04-19 (MIT) - Wonderful example project inspired by an early console game.
+* [WonderBreakanoid](https://github.com/xdanieldzd/WonderBreakanoid) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-02-27 (MIT) - Breakanoid-style game written with Wonderful.
 * [Inufuto's games](http://inufuto.web.fc2.com/8bit/) - written using a custom C-like toolchain.
 * [SwanDriving](http://sebastianmihai.com/swan-driving.html) ([Mono](http://sebastianmihai.com/swan-driving-bw.html)) - tech demo written with NASM.
 
 ### Other programs
 
 * [ELKS](https://github.com/ghaerr/elks) ⭐ 1,729 | 🐛 31 | 🌐 C | 📅 2026-10-23 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+  * [elkswan](https://codeberg.org/asie/elkswan) - More WS/WSC-friendly fork of the above.
 * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2026-01-06 (GPL-3.0) - WonderSwan cartridge menu/launcher
-* [144p Test Suite for WS](https://github.com/asiekierka/240p-test-ws) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2026-06-14 (GPL-3.0) - 240p Test Suite-inspired user-side testing tool
 * [Chips1](https://github.com/asiekierka/chips1) ⭐ 4 | 🐛 0 | 🌐 Roff | 📅 2026-03-25 (MIT) - CHIP-8/SuperCHIP emulator.
 * [ieepview](https://github.com/asiekierka/ws-ieepview) ⭐ 4 | 🐛 1 | 🌐 C | 📅 2025-03-09 (MIT) - internal EEPROM viewer/editor.
 * [ws-backup-tool](https://github.com/asiekierka/ws-backup-tool) ⭐ 3 | 🐛 1 | 🌐 C | 📅 2025-10-31 (GPL-3.0) - cartridge backup/restore/flash tool and IPL dumper for BootFriend.
+* [144p Test Suite for WS](https://codeberg.org/asie/240p-test-ws) (GPL-3.0) - 240p Test Suite-inspired user-side testing tool
 * [BootFriend](https://wonderful.asie.pl/ws/bootfriend) (GPL-3.0) - WonderSwan custom "firmware"/splash screen patch - XMODEM software load to RAM and more!
 * [wsmonitor](https://bitbucket.org/trap15/wsmonitor/) (MIT) - 80186 debug monitor.
 
@@ -224,7 +228,7 @@ This section only lists programs whose source code is explicitly listed under op
 
 ### Cartridges
 
-* [nileswan](https://github.com/RSDuck/nileswan/) ⭐ 84 | 🐛 3 | 🌐 HTML | 📅 2026-09-20 (GPLv3) - open-source flash cartridge.
+* [nileswan](https://github.com/RSDuck/nileswan/) ⭐ 84 | 🐛 4 | 🌐 HTML | 📅 2026-11-07 (GPLv3) - open-source flash cartridge.
 * [Bandai2003](https://github.com/up-n-atom/Bandai2003) ⭐ 6 | 🐛 0 | 🌐 Verilog | 📅 2023-02-05 (MIT) - Verilog "2003" mapper implementation.
 * [mbc-unlock](https://bitbucket.org/trap15/mbc-unlock) (CC0) - VHDL boot handshake implementation.
 
@@ -254,4 +258,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
