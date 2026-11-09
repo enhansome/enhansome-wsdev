@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,517 | 🐛 103 | 📅 2026-09-02 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,172 | 🐛 103 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -89,7 +89,7 @@ and assemblers typically use Intel opcode names. A translation map between the t
 ## Emulators
 
 * **[Mesen 2](https://github.com/SourMesen/Mesen2/) ⚠️ Archived** (GPL-3.0) - high accuracy, extensive built-in debugger and profiler, recommended for development.
-* [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan) ⭐ 76 | 🐛 15 | 🌐 C | 📅 2026-08-12 - WonderSwan emulator for Nintendo DS/DSi, user friendly WonderWitch support.
+* [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan) ⭐ 77 | 🐛 15 | 🌐 C | 📅 2026-08-12 - WonderSwan emulator for Nintendo DS/DSi, user friendly WonderWitch support.
   * [SwanGBA](https://github.com/FluBBaOfWard/SwanGBA/) ⭐ 49 | 🐛 4 | 🌐 Assembly | 📅 2026-08-12 - GBA version of the above, does not run at full speed.
 * [StoicGoose](https://github.com/xdanieldzd/StoicGoose) ⭐ 48 | 🐛 10 | 🌐 C# | 📅 2026-01-11 (MIT) - C# WonderSwan emulator.
 * [ares](https://ares-emu.net/) (ISC) - high accuracy.
@@ -166,7 +166,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ### Other programs
 
-* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,729 | 🐛 31 | 🌐 C | 📅 2026-10-23 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,730 | 🐛 31 | 🌐 C | 📅 2026-11-08 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
   * [elkswan](https://codeberg.org/asie/elkswan) - More WS/WSC-friendly fork of the above.
 * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2026-01-06 (GPL-3.0) - WonderSwan cartridge menu/launcher
 * [Chips1](https://github.com/asiekierka/chips1) ⭐ 4 | 🐛 0 | 🌐 Roff | 📅 2026-03-25 (MIT) - CHIP-8/SuperCHIP emulator.
@@ -258,4 +258,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
