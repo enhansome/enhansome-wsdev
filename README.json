@@ -1144,7 +1144,7 @@
                 "open_issues": 0,
                 "owner": "zwenergy",
                 "repo": "WSMtool",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.302Z"
@@ -1329,7 +1329,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:44:04.972Z",
+    "last_updated": "2026-11-10T12:28:10.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
