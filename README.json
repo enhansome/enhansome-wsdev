@@ -629,7 +629,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-18T03:31:08Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "ghaerr",
                 "repo": "elks",
                 "stars": 1736,
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:43:16.486Z",
+    "last_updated": "2026-11-21T12:27:30.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of WonderSwan development resources.",
