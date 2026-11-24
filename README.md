@@ -1,6 +1,6 @@
 # Awesome WonderSwan Development with stars
 
-A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,438 | 🐛 103 | 📅 2026-09-02 list.
+A curated list of awesome WonderSwan/WonderSwan Color development resources and tools. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,083 | 🐛 103 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -163,7 +163,7 @@ These emulators are currently only supported by Mednafen by editing its `wswan.e
 
 ### Other programs
 
-* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,735 | 🐛 34 | 🌐 C | 📅 2026-11-23 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
+* [ELKS](https://github.com/ghaerr/elks) ⭐ 1,734 | 🐛 34 | 🌐 C | 📅 2026-11-23 (GPL-2.0 + others) - Embedded Linux Kernel Subset kernel/operating system.
 * [CartFriend](https://github.com/WonderfulToolchain/ws-cartfriend) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2026-01-06 (GPL-3.0) - WonderSwan cartridge menu/launcher
 * [144p Test Suite for WS](https://github.com/asiekierka/240p-test-ws) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2026-06-14 (GPL-3.0) - 240p Test Suite-inspired user-side testing tool
 * [Chips1](https://github.com/asiekierka/chips1) ⭐ 4 | 🐛 0 | 🌐 Roff | 📅 2026-03-25 (MIT) - CHIP-8/SuperCHIP emulator.
@@ -237,7 +237,7 @@ This section only lists programs whose source code is explicitly listed under op
 
 ### Screen capture
 
-* [swancolorHD](https://github.com/zwenergy/swancolorHD) ⭐ 62 | 🐛 3 | 🌐 GLSL | 📅 2024-08-04 (GPL-3.0) - FPGA-based screen capture solution.
+* [swancolorHD](https://github.com/zwenergy/swancolorHD) ⭐ 62 | 🐛 4 | 🌐 GLSL | 📅 2024-08-04 (GPL-3.0) - FPGA-based screen capture solution.
   * [swantroller](https://github.com/zwenergy/swantroller) ⭐ 10 | 🐛 1 | 🌐 C | 📅 2024-07-16 (GPL-3.0) - WonderSwan Color-based controller PCB for the swancolorHD.
 * [nisetro\_wsc](https://github.com/splash5/nisetro_wsc) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2023-02-23 (MIT) - FPGA-based screen capture solution.
 
@@ -254,4 +254,4 @@ These are links to files and sources which are noteworthy from a historical pers
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
